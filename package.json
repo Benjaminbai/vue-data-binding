@@ -1,0 +1,23 @@
+{
+  "name": "vue-data-binding",
+  "version": "1.0.0",
+  "description": "vue data binding sample",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "vue"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "parcel": "^1.12.4",
+    "vue": "^2.6.12",
+    "webpack": "^5.10.0"
+  },
+  "devDependencies": {
+    "webpack-cli": "^4.2.0"
+  }
+}
